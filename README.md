@@ -15,8 +15,8 @@ Open to connect for exciting opportunities! 🚀
 - 🎓 **Master's in Statistics – Data Science** at Rutgers University (May 2025)  
 - 🏢 **Currently**: Data Scientist at [Rutgers Center of Gambling Studies](https://socialwork.rutgers.edu/centers/center-gambling-studies)  
 - ⚡ **Previously**: Data Analyst at [Omalco Extrusion](https://www.omalcoextrusion.com/), automated BI pipelines & forecasting systems  
-- 💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards  
-- 🌱 **Exploring**: Agentic data apps, finance/trading AI, and geospatial ML  
+- 💬 **Ask me about**: Responsible gambling analytics, Big Data Analytics, RAG systems, time-series forecasting, or real-time dashboards  
+- 🌱 **Exploring**: Risk & fraud ML, Agentic AI applications, and RAG systems for domain-specific intelligence
 - 📫 **Reach me**: [Email](mailto:ojassharma16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ojassharma16/)  
 - 🌐 **Website**: [Portfolio](https://ojas-portfolio-types-git-4893fb-ojassharma16-gmailcoms-projects.vercel.app/)  
 
