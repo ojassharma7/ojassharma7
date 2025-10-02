@@ -1,9 +1,9 @@
 # Hey there, I'm Ojas! 👋
 
 > **A passionate Data Scientist & AI Engineer building scalable ML systems, RAG applications, and real-time analytics.**  
-> *(Machine Learning | Responsible Gambling | NLP/RAG | Finance & Geospatial AI)*
+> *(Machine Learning | Responsible Gambling | NLP/RAG | Finance AI)*
 
-Currently driving risk analytics at Rutgers Center of Gambling Studies and building AI-powered data applications. Open to connect for exciting opportunities! 🚀
+Currently driving **risk analytics** at Rutgers Center of Gambling Studies and building AI-powered data applications. Open to connect for exciting opportunities! 🚀
 
 ---
 
@@ -15,16 +15,29 @@ Currently driving risk analytics at Rutgers Center of Gambling Studies and build
 - 💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards  
 - 🌱 **Exploring**: Agentic data apps, finance/trading AI, and geospatial ML  
 - 📫 **Reach me**: [Email](mailto:ojassharma16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ojassharma16/)  
-- 🌐 **Website**: [Portfolio](https://ojassharma7.github.io/OJAS-PORTFOLIO-/)  
+- 🌐 **Website**: [Portfolio](https://ojas-portfolio-types-git-4893fb-ojassharma16-gmailcoms-projects.vercel.app/)  
 
 ---
 
 ## 💼 Experience
 
-| Company | Role | Focus |
-|---------|------|-------|
-| **Rutgers Center of Gambling Studies** | Data Scientist | Analyzed 4.5 TB dataset (13.6B records); built clustering & classification models (KMeans, GMM, LightGBM, SVM); boosted early-risk detection by 30% |
-| **Omalco Extrusion** | Data Analyst | Automated BI dashboards (Power BI, D3.js); reduced ETL runtime by 50%; built ARIMA/Prophet forecasts; hybrid PostgreSQL–Couchbase pipelines |
+## 💼 Experience
+
+📍 **Rutgers University – Center of Gambling Studies**  
+*Data Scientist | Apr 2024 – Present*  
+`Python` `PySpark` `LightGBM` `Clustering`  
+- 🚀 Classified **5M+ gamblers** with unsupervised ML **(Silhouette 0.79)** 
+- 📊 Built ML models (KMeans, GMM, LightGBM, SVM) → **30% boost in early detection**  
+- 🏛️ Results influenced **multi-billion dollar state regulations**  
+
+---
+
+📍 **Omalco Extrusion, India**  
+*Data Analyst | Aug 2022 – Jul 2023*  
+`Power BI` `D3.js` `PostgreSQL` `Prophet`  
+- ⚡ Automated financial reporting → reduced ETL runtime **-50%**  
+- 📈 Built sales forecasts with ARIMA/Prophet → improved planning  
+- 🌐 Designed hybrid PostgreSQL–Couchbase system for **live dashboards**  
 
 > *For more details, check out my pinned projects!* 📌
 
