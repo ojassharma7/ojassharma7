@@ -1,4 +1,3 @@
-readme = r"""
 <!--
 If you like this template, star the repo ⭐ and connect with me on LinkedIn!
 Drop this file into a repo named exactly your-username/your-username to activate it.
