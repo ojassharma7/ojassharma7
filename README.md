@@ -1,4 +1,3 @@
-# Create a polished GitHub Profile README for the user and save it to /mnt/data so they can download it.
 readme = r"""
 <!--
 If you like this template, star the repo ⭐ and connect with me on LinkedIn!
