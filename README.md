@@ -1,100 +1,80 @@
-<!--
-If you like this template, star the repo ⭐ and connect with me on LinkedIn!
-Drop this file into a repo named exactly your-username/your-username to activate it.
--->
+# Hey there, I'm Ojas! 👋
 
-<h1 align="center">Hey there, I'm Ojas 👋</h1>
+> **A passionate Data Scientist & AI Engineer building scalable ML systems, RAG applications, and real-time analytics.**  
+> *(Machine Learning | Responsible Gambling | NLP/RAG | Finance & Geospatial AI)*
 
-<p align="center">
-A <b>Data Scientist & AI Engineer</b> building <b>AI-powered analytics</b> for finance, sports, and large-scale data products.<br/>
-<i>Machine Learning • Quant/Derivatives • Knowledge Graph RAG • Real-time Dashboards</i>
-</p>
-
-<p align="center">
-  <a href="https://ojas-portfolio-types-git-4893fb-ojassharma16-gmailcoms-projects.vercel.app/" target="_blank">Website</a> •
-  <a href="http://www.linkedin.com/in/ojassharma16" target="_blank">LinkedIn</a> •
-  <a href="mailto:ojassharma16@gmail.com">Email</a> •
-  <a href="https://github.com/ojassharma7">GitHub</a>
-</p>
+Currently driving risk analytics at Rutgers Center of Gambling Studies and building AI-powered data applications. Open to connect for exciting opportunities! 🚀
 
 ---
 
 ## 🔍 About Me
 
-- 🎓 **Master’s in Statistics**  – Data Science at Rutgers University (May 2025)
-- 🏢 **Currently**: Data Scientist @ Rutgers Center of Gambling Studies (risk modeling on 13.6B gambling records)
-- ⚡ **Previously**: Data Analyst @ Omalco Extrusion (BI automation, time-series forecasting, hybrid data pipelines)
-- 💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards
-- 🌱 **Exploring**: Agentic data apps, finance/trading AI, geospatial ML
-- 📫 **Reach me**: Email
- | LinkedIn
-
-- 🌐 **Website**: Portfolio
+- 🎓 **Master's in Statistics – Data Science** at Rutgers University (May 2025)  
+- 🏢 **Currently**: Data Scientist at [Rutgers Center of Gambling Studies](https://socialwork.rutgers.edu/centers/center-gambling-studies)  
+- ⚡ **Previously**: Data Analyst at [Omalco Extrusion](https://www.omalcoextrusion.com/), automated BI pipelines & forecasting systems  
+- 💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards  
+- 🌱 **Exploring**: Agentic data apps, finance/trading AI, and geospatial ML  
+- 📫 **Reach me**: [Email](mailto:ojassharma16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ojassharma16/)  
+- 🌐 **Website**: [Portfolio](https://ojassharma7.github.io/OJAS-PORTFOLIO-/)  
 
 ---
 
 ## 💼 Experience
 
-| Company / Org | Role | Focus |
-| --- | --- | --- |
-| **Center of Gambling Studies (Rutgers)** | Data Scientist | Risk classification, chasing detection, segmentation at scale (4.5 TB / 13.6B rows) |
-| **EquiIntel / Personal Projects** | Founder | Local-first AI equity research (RAG + KG, vector DB), research copilots |
-| **GammaX** | Builder | Options pricing (Black-Scholes, Heston, Merton JD), Greeks dashboards |
-| **AI-Portfolio Manager** | Researcher | Transformer RL, Gymnasium + SB3, multi-asset allocation |
+| Company | Role | Focus |
+|---------|------|-------|
+| **Rutgers Center of Gambling Studies** | Data Scientist | Analyzed 4.5 TB dataset (13.6B records); built clustering & classification models (KMeans, GMM, LightGBM, SVM); boosted early-risk detection by 30% |
+| **Omalco Extrusion** | Data Analyst | Automated BI dashboards (Power BI, D3.js); reduced ETL runtime by 50%; built ARIMA/Prophet forecasts; hybrid PostgreSQL–Couchbase pipelines |
 
-> Tip: Pin the 4–6 repos you want recruiters to see first (Profile → Customize your pins).
+> *For more details, check out my pinned projects!* 📌
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** `Python` `SQL` `R` `JavaScript/TypeScript`  
-**ML/AI:** `PyTorch` `TensorFlow` `scikit-learn` `XGBoost/LightGBM` `StatsModels`  
-**Data/Infra:** `Pandas/Polars` `PySpark` `Airflow` `Docker` `FastAPI` `Streamlit/Taipy`  
-**Cloud/DB:** `GCP` `AWS` `Postgres` `Neo4j` `FAISS`  
-**MLOps:** `Experiment tracking` `Testing` `Eval harnesses` `CI/CD`
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-</p>
+### ML & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=lightgbm&logoColor=black)
 
----
+### Cloud & Databases
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
 
-## 🧩 Featured Projects
+<details>
+<summary>📚 Full Tech Stack</summary>
 
-- **GammaX – Options Analytics** → Black-Scholes / Heston / Merton JD pricing, Greeks, IV surfaces, Streamlit UI  
-- **AI-Equity Researcher – S&P-500 KG-RAG** → Company filings + earnings calls into KG; semantic retrieval & reasoning  
-- **CGS Risk Segmentation** → Unsupervised/supervised models to flag risky play & chasing behavior at scale  
-- **AI-Portfolio Manager** → Transformer-based RL agent for multi-asset allocation with custom reward shaping  
+- **Languages**: Python, SQL, R, C++, MATLAB  
+- **ML & AI**: KMeans, SVM, LightGBM, PyTorch, TensorFlow, HuggingFace, RAG  
+- **Visualization**: Power BI, Tableau, D3.js, Matplotlib, ggplot, Plotly  
+- **Cloud & Databases**: Google Cloud (BigQuery), Azure, PostgreSQL, Couchbase, Snowflake, Hive  
+- **Other**: Outlier Detection, PCA, Time-Series (ARIMA, Prophet), ETL Pipelines  
 
-> Add short GIFs or screenshots inside each project README to boost engagement.
-
----
-
-## 📚 Publications
-- *Deep RL for Traffic Control* — **IEEE TENSYMP 2023**  
-- *Deep RL for Stock Trading: Inclusion of Short Selling* — **ISMIS 2022**  
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## 📝 Projects
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArnavJ19&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavJ19&layout=compact&hide_border=true" />
-</p>
+- 🍽️ **Fine D-AI-ne** → Restaurant QA system with LLaMA3, Mistral, RAG; achieved **F1: 0.65**, **BERT Score: 0.99**  
+- 🐦 **Twitter Search Application** → Accelerated tweet processing by 60%; hybrid PostgreSQL–Couchbase–Elasticsearch architecture  
+- 🗺️ **Campus Watch** → Real-time geospatial dashboard using Selenium + Plotly for campus crime analytics  
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=ArnavJ19&hide_border=true" height="165" />
-  <img src="https://komarev.com/ghpvc/?username=ArnavJ19&style=flat-square" />
-</p>
+---
+
+## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=ojassharma7&color=brightgreen&style=flat-square&label=Profile+Views)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojassharma7&layout=compact&theme=tokyonight)
 
 ---
 
@@ -102,14 +82,15 @@ A <b>Data Scientist & AI Engineer</b> building <b>AI-powered analytics</b> for f
 
 ```python
 class DataScientist:
-    def __init__(self):
-        self.name = "Ojas Jain"
-        self.current_work = ["Risk Modeling @ CGS", "EquiIntel KG-RAG", "GammaX"]
-        self.interests = ["Agentic data apps", "Quant research", "Geospatial/ML"]
-        self.fun_fact = "I turn complex data into actionable insights! 📊"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let’s build something amazing! 🚀")
+   def __init__(self):
+       self.name = "Ojas Sharma"
+       self.current_work = ["Risk Analytics @ CGS", "RAG Apps", "Real-Time Dashboards"]
+       self.interests = ["Responsible Gambling ML", "Finance & Trading AI", "Agentic Data Systems"]
+       self.fun_fact = "I scale models from toy datasets to billions of rows 📊✨"
+   
+   def say_hi(self):
+       print("Thanks for stopping by! Let's build something impactful together! 🚀")
 
 me = DataScientist()
 me.say_hi()
+
