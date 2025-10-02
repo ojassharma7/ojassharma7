@@ -1,6 +1,6 @@
 # Hey there, I'm Ojas! 👋
 
-> **Data Scientist & AI Engineer specializing in large-scale ML pipelines, RAG/LLM applications, and risk analytics on multi-terabyte datasets.**  
+> **Data Scientist & ML Engineer specializing in large-scale ML pipelines, RAG/LLM applications, and risk analytics on multi-terabyte datasets.**  
 > **(Python | PySpark | Responsible Gambling(Risk) Modelling | LangChain|**
 
 Currently leading **risk modeling at Rutgers Center of Gambling Studies**, where I work on **4.5 TB / 13.6B+ record datasets** to detect high-risk gambling behavior using **clustering (KMeans, GMM), gradient boosting (LightGBM), and anomaly detection pipelines**.  
