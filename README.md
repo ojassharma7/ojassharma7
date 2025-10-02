@@ -11,20 +11,20 @@ A <b>Data Scientist & AI Engineer</b> building <b>AI-powered analytics</b> for f
 </p>
 
 <p align="center">
-  <a href="https://arnavxdata.com" target="_blank">Website</a> •
-  <a href="https://www.linkedin.com/in/ArnavJ19" target="_blank">LinkedIn</a> •
-  <a href="mailto:ojas@example.com">Email</a> •
-  <a href="https://github.com/ArnavJ19">GitHub</a>
+  <a href="https://ojas-portfolio-types-git-4893fb-ojassharma16-gmailcoms-projects.vercel.app/" target="_blank">Website</a> •
+  <a href="http://www.linkedin.com/in/ojassharma16" target="_blank">LinkedIn</a> •
+  <a href="mailto:ojassharma16@gmail.com">Email</a> •
+  <a href="https://github.com/ojassharma7">GitHub</a>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 Background in **Data Science**, **Quantitative Finance**, and **AI-driven analytics**  
+- 🎓 Background in **Data Science**, **AI-driven analytics** & **Risk Modelling **  
 - 🧪 Currently: **Risk modeling @ Rutgers CGS** (13.6B events across 7 operators); **AI equity research tools**  
 - 🚀 Previously: built **GammaX** (options analytics), **AI-Equity Researcher** (S&P-500 KG-RAG), **AI-Portfolio Manager** (Transformer RL)  
-- 💬 Ask me about: **feature engineering**, **RL for trading**, **KG-RAG for research**, **ML for responsible gambling**  
+- 💬 Ask me about: **Feature engineering**, **KG-RAG for research**, **ML for responsible gambling**  
 - 🔭 Exploring: **agentic data apps**, **multi-agent systems**, **geospatial analytics**  
 - 🌱 Fun fact: I love turning messy data into clean, decision-ready insights.
 
