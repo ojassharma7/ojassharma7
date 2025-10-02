@@ -21,15 +21,15 @@ A <b>Data Scientist & AI Engineer</b> building <b>AI-powered analytics</b> for f
 
 ## 🔍 About Me
 
-🎓 **Master’s in Statistics**  – Data Science at Rutgers University (May 2025)
-🏢 **Currently**: Data Scientist @ Rutgers Center of Gambling Studies (risk modeling on 13.6B gambling records)
-⚡ **Previously**: Data Analyst @ Omalco Extrusion (BI automation, time-series forecasting, hybrid data pipelines)
-💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards
-🌱 **Exploring**: Agentic data apps, finance/trading AI, geospatial ML
-📫 **Reach me**: Email
+- 🎓 **Master’s in Statistics**  – Data Science at Rutgers University (May 2025)
+- 🏢 **Currently**: Data Scientist @ Rutgers Center of Gambling Studies (risk modeling on 13.6B gambling records)
+- ⚡ **Previously**: Data Analyst @ Omalco Extrusion (BI automation, time-series forecasting, hybrid data pipelines)
+- 💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards
+- 🌱 **Exploring**: Agentic data apps, finance/trading AI, geospatial ML
+- 📫 **Reach me**: Email
  | LinkedIn
 
-🌐 **Website**: Portfolio
+- 🌐 **Website**: Portfolio
 
 ---
 
