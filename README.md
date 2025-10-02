@@ -1,11 +1,14 @@
 # Hey there, I'm Ojas! 👋
 
-> **A passionate Data Scientist & AI Engineer building scalable ML systems, RAG applications, and real-time analytics.**  
-> *(Machine Learning | Responsible Gambling | NLP/RAG | Finance AI)*
+> **Data Scientist & AI Engineer specializing in large-scale ML pipelines, RAG/LLM applications, and risk analytics on multi-terabyte datasets.**  
+> *(Python | PySpark | LightGBM | PyTorch | LangChain | BigQuery | Responsible Gambling & Finance AI)*
 
-Currently driving **risk analytics** at Rutgers Center of Gambling Studies and building AI-powered data applications. Open to connect for exciting opportunities! 🚀
+Currently leading **risk modeling at Rutgers Center of Gambling Studies**, where I work on **4.5 TB / 13.6B+ record datasets** to detect high-risk gambling behavior using **clustering (KMeans, GMM), gradient boosting (LightGBM), and anomaly detection pipelines**.  
 
----
+I also design **RAG-powered AI applications** for **real-time analytics** and **financial decision-making**, delivering systems that scale from prototype to production and directly inform **policy and business strategy**.  
+
+Open to connect for exciting opportunities! 🚀
+
 
 ## 🔍 About Me
 
@@ -25,7 +28,7 @@ Currently driving **risk analytics** at Rutgers Center of Gambling Studies and b
 
 📍 **Rutgers University – Center of Gambling Studies**  
 *Data Scientist | Apr 2024 – Present*  
-`Python` `PySpark` `LightGBM` `Clustering`  
+`Python` `PySpark` `K-Means` `DBSCAN` `Clustering`  
 - 🚀 Classified **5M+ gamblers** with unsupervised ML **(Silhouette 0.79)** 
 - 📊 Built ML models (KMeans, GMM, LightGBM, SVM) → **30% boost in early detection**  
 - 🏛️ Results influenced **multi-billion dollar state regulations**  
@@ -34,8 +37,8 @@ Currently driving **risk analytics** at Rutgers Center of Gambling Studies and b
 
 📍 **Omalco Extrusion, India**  
 *Data Analyst | Aug 2022 – Jul 2023*  
-`Power BI` `D3.js` `PostgreSQL` `Prophet`  
-- ⚡ Automated financial reporting → reduced ETL runtime **-50%**  
+`Power BI` `D3.js` `PostgreSQL` `ARIMA` `Prophet`  
+- ⚡ Automated financial reporting → reduced ETL runtime **-37%**  
 - 📈 Built sales forecasts with ARIMA/Prophet → improved planning  
 - 🌐 Designed hybrid PostgreSQL–Couchbase system for **live dashboards**  
 
