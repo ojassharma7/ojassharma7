@@ -1,7 +1,7 @@
 # Hey there, I'm Ojas! 👋
 
 > **Data Scientist & AI Engineer specializing in large-scale ML pipelines, RAG/LLM applications, and risk analytics on multi-terabyte datasets.**  
-> *(Python | PySpark | LightGBM | PyTorch | LangChain | BigQuery | Responsible Gambling & Finance AI)*
+> *(Python | PySpark | PyTorch | LangChain | K-Means | Responsible Gambling & Finance AI)*
 
 Currently leading **risk modeling at Rutgers Center of Gambling Studies**, where I work on **4.5 TB / 13.6B+ record datasets** to detect high-risk gambling behavior using **clustering (KMeans, GMM), gradient boosting (LightGBM), and anomaly detection pipelines**.  
 
@@ -22,7 +22,6 @@ Open to connect for exciting opportunities! 🚀
 
 ---
 
-## 💼 Experience
 
 ## 💼 Experience
 
@@ -94,19 +93,4 @@ Open to connect for exciting opportunities! 🚀
 
 ---
 
-## 🎯 Current Focus
-
-```python
-class DataScientist:
-   def __init__(self):
-       self.name = "Ojas Sharma"
-       self.current_work = ["Risk Analytics @ CGS", "RAG Apps", "Real-Time Dashboards"]
-       self.interests = ["Responsible Gambling ML", "Finance & Trading AI", "Agentic Data Systems"]
-       self.fun_fact = "I scale models from toy datasets to billions of rows 📊✨"
-   
-   def say_hi(self):
-       print("Thanks for stopping by! Let's build something impactful together! 🚀")
-
-me = DataScientist()
-me.say_hi()
 
