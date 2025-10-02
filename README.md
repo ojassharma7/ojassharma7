@@ -19,14 +19,17 @@ A <b>Data Scientist & AI Engineer</b> building <b>AI-powered analytics</b> for f
 
 ---
 
-## 🧭 About Me
+## 🔍 About Me
 
-- 🎓 Background in **Data Science**, **AI-driven analytics** & **Risk Modelling **  
-- 🧪 Currently: **Risk modeling @ Rutgers CGS** (13.6B events across 7 operators); **AI equity research tools**  
-- 🚀 Previously: built **GammaX** (options analytics), **AI-Equity Researcher** (S&P-500 KG-RAG), **AI-Portfolio Manager** (Transformer RL)  
-- 💬 Ask me about: **Feature engineering**, **KG-RAG for research**, **ML for responsible gambling**  
-- 🔭 Exploring: **agentic data apps**, **multi-agent systems**, **geospatial analytics**  
-- 🌱 Fun fact: I love turning messy data into clean, decision-ready insights.
+🎓 **Master’s in Statistics**  – Data Science at Rutgers University (May 2025)
+🏢 **Currently**: Data Scientist @ Rutgers Center of Gambling Studies (risk modeling on 13.6B gambling records)
+⚡ **Previously**: Data Analyst @ Omalco Extrusion (BI automation, time-series forecasting, hybrid data pipelines)
+💬 **Ask me about**: Responsible gambling analytics, RAG systems, time-series forecasting, or real-time dashboards
+🌱 **Exploring**: Agentic data apps, finance/trading AI, geospatial ML
+📫 **Reach me**: Email
+ | LinkedIn
+
+🌐 **Website**: Portfolio
 
 ---
 
